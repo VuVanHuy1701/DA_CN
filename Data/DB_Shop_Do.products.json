@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76c8"
+  },
+  "name": "Manfinity Basics Áo thun polo tay ngắn mùa hè đơn sắc giản dị",
+  "category": "Áo Nam",
+  "image": "aoNam2.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76c9"
+  },
+  "name": "Manfinity Homme Áo thun đan bánh quế thường ngày dành cho nam giới mùa hè",
+  "category": "Áo Nam",
+  "image": "aoNam3.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 10.75
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76ca"
+  },
+  "name": "Manfinity Homme Nam Lá thư & Số In Ngắn tay Áo thun Cho mùa hè",
+  "category": "Áo Nam",
+  "image": "aoNam4.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 13.25
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76cb"
+  },
+  "name": "Manfinity Hypemode Nam Khối màu Áo polo",
+  "category": "Áo Nam",
+  "image": "doNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76cc"
+  },
+  "name": "Manfinity Homme Nam Đồ họa Chữ cái Áo thun",
+  "category": "Áo Nam",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 12.5
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76cd"
+  },
+  "name": "Manfinity Basics Áo thun polo tay ngắn mùa hè đơn sắc giản dị",
+  "category": "Áo Nam",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76ce"
+  },
+  "name": "Manfinity Homme Áo thun đan bánh quế thường ngày dành cho nam giới mùa hè",
+  "category": "Áo Nam",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 10.75
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76d0"
+  },
+  "name": "EZwear Áo thun ngắn tay cổ tròn màu trơn mùa hè dành cho nữ",
+  "category": "Áo Nữ ",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 15.99
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76d1"
+  },
+  "name": "EZwear Áo sơ mi dài tay họa tiết ngựa đực rộng rãi thoải mái cho nữ, mùa xuân hè",
+  "category": "Áo Nữ",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 12.5
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76d2"
+  },
+  "name": "LUNE Áo thun nữ Sò điệp Tranh thêu màu trơn Giải trí",
+  "category": "Áo Nữ",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 8.99
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76d3"
+  },
+  "name": "ttitoon Áo thun nữ tay ngắn dáng rộng dáng rộng in hình gấu bông thích hợp cho mùa hè LOS ANGELES",
+  "category": "Áo Nữ",
+  "image": "aoNam1.jpg",
+  "description": "Trout is a freshwater fish with a delicate flavor.",
+  "price": 10.75
+},
+{
+  "_id": {
+    "$oid": "66e78eb28a12378b96ef76d4"
+  },
+  "name": "Privé Áo sơ mi dài tay màu trắng phối ren thời trang Xuân/Hè có cổ mở",
+  "category": "Áo Nữ",
+  "image": "aoNam1.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 13.25
+},
+{
+  "_id": {
+    "$oid": "66e8ddf06787768bec7c7741"
+  },
+  "name": "ao2",
+  "category": "ALL",
+  "image": "aoNam2.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e8ddf96787768bec7c7743"
+  },
+  "name": "ao2",
+  "category": "ALL",
+  "image": "aoNam2.jpg",
+  "description": "Là lựa chọn hoàn hảo cho những chàng trai yêu thích phong cách đơn giản, hiện đại. Với thiết kế tối giản nhưng không kém phần thời trang, chiếc áo này dễ dàng kết hợp với nhiều loại quần khác nhau, tạo nên những set đồ phong cách, phù hợp cho nhiều hoàn cảnh.\n",
+  "price": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e8e6016787768bec7c775d"
+  },
+  "name": "spmmoi",
+  "category": "ALL",
+  "image": "aoNam2.jpg",
+  "description": "acb",
+  "price": 12,
+  "__v": 0
+}]

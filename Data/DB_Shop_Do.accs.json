@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66ed961f8a5c9632eeeac61c"
+  },
+  "email": "huyvanvu2003@gmail.com",
+  "name": "vanhuy",
+  "password": "$2b$10$0X3GElDCFOa.gwiMpnpmnO677p4GWhSIwHjnHaqn3viQxcAikJoma",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eda2fabcd717108b74b584"
+  },
+  "email": "2100007980@nttu.edu.vn",
+  "name": "admin",
+  "password": "$2b$10$JtWEseF8PuP8/1Wfo2xh4up1jffl1zIJA6MZdpjVW3hprL/Ttx8PC",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f39f3cda3f59613529658e"
+  },
+  "email": "2qwead",
+  "name": "ao2",
+  "password": "$2b$10$uMODwXe4vhPgTj8JRUuUu.tL0vreFxw8osPkL5azywPBvHcrtXQEO",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f39f68da3f596135296592"
+  },
+  "email": "2100007980@",
+  "name": "huyvanvu456",
+  "password": "$2b$10$5j25Jy3y1Ug3WArs87eOEOVvuls8Qk7b4LXnxZwDomV4jv2C96JRy",
+  "role": "user",
+  "__v": 0
+}]
